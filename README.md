@@ -1,15 +1,24 @@
 # Aplicación Web Interactiva 🚀
 
-## Estudiante
+## 👨‍💻 Estudiante
 Brando Álvarez
 
-## Descripción
-Aplicación web interactiva que muestra frases motivacionales, contador de interacciones y modo oscuro.
+## 📌 Descripción
+Aplicación web interactiva que permite visualizar frases motivacionales, llevar un contador de interacciones y cambiar entre modo claro y oscuro.
 
-## Tecnologías
+## 🛠️ Tecnologías utilizadas
 - HTML
 - CSS
 - JavaScript
+- Git y GitHub
 
-## Despliegue
-Integrado con Azure App Service mediante GitHub Actions (CI/CD).
+## ⚙️ Funcionalidades
+- Mostrar frases aleatorias
+- Contador de clics
+- Modo oscuro
+
+## 🚀 Despliegue
+El proyecto está preparado para ser desplegado automáticamente mediante integración continua (CI/CD) en Azure App Service.
+
+## 🔗 Repositorio
+(Coloca aquí tu link de GitHub)
