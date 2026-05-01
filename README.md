@@ -21,4 +21,4 @@ Aplicación web interactiva que permite visualizar frases motivacionales, llevar
 El proyecto está preparado para ser desplegado automáticamente mediante integración continua (CI/CD) en Azure App Service.
 
 ## 🔗 Repositorio
-(Coloca aquí tu link de GitHub)
+(https://github.com/Brando1997/mi-app-azure.git)
